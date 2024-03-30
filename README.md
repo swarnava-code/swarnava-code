@@ -1,20 +1,33 @@
 <!-- **swarnava-code/swarnava-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-<h1 align="center">Hi, I'm Swarnava Chakraborty</h1>
-<p align="center">A meticulous and passionate individual, adept at navigating challenges and delivering optimal solutions that enhance final product value. With a keen interest in backend, I thrive on streamlining processes and driving efficiency. Let's collaborate to elevate your projects with innovative solutions and seamless contribution!</p>
+<h1 align="center"> 👋 Hi, I'm Swarnava Chakraborty </h1>
+<p align="center"> A meticulous and passionate individual, adept at navigating challenges and delivering optimal solutions that enhance final product value. With a keen interest in backend, I thrive on streamlining processes and driving efficiency. Let's collaborate to elevate your projects with innovative solutions and seamless contribution! </p>
 
 [//]: # (<p align="center"> <img src="https://komarev.com/ghpvc/?username=swarnava-code" alt="swarnava-code" /> </p>)
 
+- 🎓 I graduated with a BTech in CSE in 2021.
+- 👀 I’m interested in Mobile App Development and Backend.
 - 🔭 I’m working on enhancing my Java programming skills.
-- 🌱 I’m currently learning Backend related topics.
+- 🌱 Like to build project with modern languages like Java, Kotlin and GoLang.
 - 👯 I’m looking to collaborate on Java-based or backend projects.
+- 💞️ I’m looking to collaborate on Java library.
 - 👨‍💻 All of my projects are available at <a href="https://github.com/swarnava-code" target="_blank">https://github.com/swarnava-code
 - 🤔 I’m looking for help with advanced Backend concepts.
 - 💬 Ask me about my experience in software development.
-- 📫 How to reach me: How to reach me: You can reach me via email at [swarnava.code@gmail.com].
+- 📫 How to reach me: You can reach me via email at [swarnava.code@gmail.com].
 - ⚡ Fun fact: I enjoy experimenting with new programming languages and open source projects.
 - 😄 Pronouns: He/Him ♂
+
+### Personal Projects
+| Project Name                  | Technology Used                           | Open Source
+| -----------                   | -----------                               | -----------
+| 8085 Simulator Mobile App     | Java, Android Studio, Gradle              | 🚫 Not Open Source
+| Learning App for Kid (Mobile) | Java, Android Studio, Gradle              | ✅ Open Source [github link](https://github.com/swarnava-code/Learning-App-for-Kid)
+| Kafka Test Framework          | Java, Mavan Build Tool, Kafka             | ✅ Open Source [github link](https://github.com/swarnava-code/kafka-test-util)
+| Library Management System API | Java, Spring Boot, Kafka, Redis, Grafana  | ✅ Open Source [github link](https://github.com/swarnava-code/Digital-Library-Backend-using-Spring-Boot)
+| Payment App API               | Java, Spring Boot, Kafka, Spring Security | ✅ Open Source [github link](https://github.com/swarnava-code/payment-wallet-app)
+* For more projects [visit](https://github.com/swarnava-code?tab=repositories)
 
 <!--
 ### Tech Stack
