@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Swarnava Chakraborty</h1>
-<p align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up.</p>
+<p align="center">A meticulous and passionate individual, adept at navigating challenges and delivering optimal solutions that enhance final product value. With a keen interest in backend, I thrive on streamlining processes and driving efficiency. Let's collaborate to elevate your projects with innovative solutions and seamless contribution!</p>
 
 [//]: # (<p align="center"> <img src="https://komarev.com/ghpvc/?username=swarnava-code" alt="swarnava-code" /> </p>)
 
