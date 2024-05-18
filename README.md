@@ -20,16 +20,19 @@
 - 😄 Pronouns: He/Him ♂
 
 ### Personal Projects
-| Project Name                  | Technology Used                           | Open Source
-| -----------                   | -----------                               | -----------
-| 8085 Simulator Mobile App     | Java, Android Studio, Gradle              | 🚫 Not Open Source
-| Learning App for Kid (Mobile) | Java, Android Studio, Gradle              | ✅ Open Source [github link](https://github.com/swarnava-code/Learning-App-for-Kid)
-| Kafka Test Framework          | Java, Mavan Build Tool, Kafka             | ✅ Open Source [github link](https://github.com/swarnava-code/kafka-test-util)
-| Library Management System API | Java, Spring Boot, Kafka, Redis, Grafana  | ✅ Open Source [github link](https://github.com/swarnava-code/Digital-Library-Backend-using-Spring-Boot)
-| Payment App API               | Java, Spring Boot, Kafka, Spring Security | ✅ Open Source [github link](https://github.com/swarnava-code/payment-wallet-app)
-* For more projects [visit](https://github.com/swarnava-code?tab=repositories)
+| Year | Project Name                  | Technology Used                           | Open Source
+| ---- | -----------                   | -----------                               | -----------
+| 2020 | 8085 Simulator Mobile App     | Java, Android Studio, Gradle              | 🚫 Not Open Source
+| 2020 | Learning App for Kid (Mobile) | Java, Android Studio, Gradle              | ✅ Open Source [github link](https://github.com/swarnava-code/Learning-App-for-Kid)
+| 2021 | Blog Web App - Spring Boot    | Java, SPRING Boot, Html, CSS, JS, Maven   | ✅ Open Source [github link](https://github.com/swarnava-code/blog-web-app)
+| 2022 | Web Automation                | Java, Selenium, Maven                     | ✅ Open Source [github link](https://github.com/swarnava-code/web-automation)
+| 2022 | IPL Dataset Project           | Java, MySQL, CSV, Maven                   | ✅ Open Source [github link](https://github.com/swarnava-code/ipl-v2-java)
+| 2023 | Kafka Test Framework          | Java, Mavan Build Tool, Kafka             | ✅ Open Source [github link](https://github.com/swarnava-code/kafka-test-util)
+| 2023 | Library Management System API | Java, Spring Boot, Kafka, Redis, Grafana  | ✅ Open Source [github link](https://github.com/swarnava-code/Digital-Library-Backend-using-Spring-Boot)
+| 2024 | Payment App API               | Java, Spring Boot, Kafka, Spring Security | ✅ Open Source [github link](https://github.com/swarnava-code/payment-wallet-app)
+⭐⭐⭐ For more projects [visit](https://github.com/swarnava-code?tab=repositories) ⭐⭐⭐
 
-<!--
+<!--https://github.com/swarnava-code/blog-web-app
 ### Tech Stack
 
 <p align="left">
