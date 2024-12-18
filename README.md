@@ -1,14 +1,11 @@
 <!-- **swarnava-code/swarnava-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
-
-![1713680212249](https://github.com/user-attachments/assets/864a272c-a596-4dd0-8c92-a05c8d846a83)
-
-![Uploading Screenshot 2024-12-18 at 11.57.55 PM.png…]()
-
+![swarnava-banner](https://github.com/user-attachments/assets/0ac6d205-e3d0-42ad-8f31-8a12cbff8dc2)
 
 <h1 align="center"> 👋 Hi, I'm Swarnava Chakraborty </h1>
-<p align="center"> A meticulous and passionate individual, adept at navigating challenges and delivering optimal solutions that enhance final product value. With a keen interest in backend, I thrive on streamlining processes and driving efficiency. Let's collaborate to elevate your projects with innovative solutions and seamless contribution! </p>
+<p align="center"> Passionate Java Backend Developer with expertise in building scalable, high-performance applications using Spring Boot, Kafka, and RESTful APIs. Experienced in database management, event-driven architectures, and delivering robust software solutions. A proactive team player committed to continuous learning and innovation. </p>
+
+
 
 
 [//]: # (<p align="center"> <img src="https://komarev.com/ghpvc/?username=swarnava-code" alt="swarnava-code" /> </p>)
