@@ -4,8 +4,12 @@
 
 ![1713680212249](https://github.com/user-attachments/assets/864a272c-a596-4dd0-8c92-a05c8d846a83)
 
+![Uploading Screenshot 2024-12-18 at 11.57.55 PM.png…]()
+
+
 <h1 align="center"> 👋 Hi, I'm Swarnava Chakraborty </h1>
 <p align="center"> A meticulous and passionate individual, adept at navigating challenges and delivering optimal solutions that enhance final product value. With a keen interest in backend, I thrive on streamlining processes and driving efficiency. Let's collaborate to elevate your projects with innovative solutions and seamless contribution! </p>
+
 
 [//]: # (<p align="center"> <img src="https://komarev.com/ghpvc/?username=swarnava-code" alt="swarnava-code" /> </p>)
 
