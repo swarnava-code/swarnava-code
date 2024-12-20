@@ -58,6 +58,15 @@
 ⭐⭐⭐ To check out all of my projects, visit here ➤ [ [repos](https://github.com/swarnava-code?tab=repositories) ] ⭐⭐⭐
 
 
+### 📝 Blog Posts
+I love sharing my knowledge and experiences through writing. Check out some of my recent blog posts:
+
+| Blog Title                                                                                           | Link                                                                                                                                                                                                                                                      |
+|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Exploring the Power of Java Spring Boot Reactive Programming: A Journey into Database Connectivity   | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@swarnava-code/exploring-the-power-of-java-spring-boot-reactive-programming-a-journey-into-database-connectivity-11616e8d7ec2) |
+| Crafting a Dynamic API with Spring Boot: Harnessing GraphQL Queries and Mutations                    | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@swarnava-code/crafting-a-dynamic-api-with-spring-boot-harnessing-graphql-queries-and-mutations-4244f637405a)                  |
+| Building a Pub/Sub System with Kafka and Spring Boot                                                 | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@swarnava-code/building-a-pub-sub-system-with-kafka-and-spring-boot-a5840fd94a4a)                                              |
+
 
 <!--
 Badges:
