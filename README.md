@@ -79,7 +79,7 @@ https://www.flaticon.com/free-icon/gmail_888853
 
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarnava-code&layout=compact&hide=php,c,html,roff&langs_count=10)
-![stats](https://github-readme-stats.vercel.app/api?username=swarnava-code&show_icons=true)
+<!--![stats](https://github-readme-stats.vercel.app/api?username=swarnava-code&show_icons=true)-->
 
 
 
